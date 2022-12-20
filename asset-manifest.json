@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/dash/static/css/main.cb92c507.css",
+    "main.js": "/dash/static/js/main.7c48dde6.js",
+    "static/media/LogoAngela.svg": "/dash/static/media/LogoAngela.65e7f1e7a2511b26126fafd3b41ab342.svg",
+    "static/media/LogoNicolas.svg": "/dash/static/media/LogoNicolas.c0d598f95dba19a9728d21ea37cad778.svg",
+    "static/media/LogoJesus.svg": "/dash/static/media/LogoJesus.250848a42be354870de02f98010f5cb4.svg",
+    "static/media/LogoAndres.svg": "/dash/static/media/LogoAndres.e3ad8946e9fafb01307f180a9c6f3b15.svg",
+    "static/media/LogoCamila.svg": "/dash/static/media/LogoCamila.b7a5d2fc6caf36bd2c8906b09026dc3e.svg",
+    "static/media/LogoAlejandro.svg": "/dash/static/media/LogoAlejandro.bfaece8938ae1e3b9302452c26f4066b.svg",
+    "static/media/LogoDruck.jpeg": "/dash/static/media/LogoDruck.2fb8e30a59d4fdc8bdc9.jpeg",
+    "static/media/LogoBrayan.svg": "/dash/static/media/LogoBrayan.5cda06c199aa60f1eaa7ca88fad10dcc.svg",
+    "index.html": "/dash/index.html",
+    "main.cb92c507.css.map": "/dash/static/css/main.cb92c507.css.map",
+    "main.7c48dde6.js.map": "/dash/static/js/main.7c48dde6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb92c507.css",
+    "static/js/main.7c48dde6.js"
+  ]
+}
